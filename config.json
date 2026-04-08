@@ -1,0 +1,34 @@
+﻿{
+  "config_version": 1,
+  "remote_config_ttl_sec": 21600,
+  "onesignal_app_id": "YOUR_ONESIGNAL_APP_ID",
+  "ads": {
+    "enabled": true,
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "test_mode": false,
+    "global_max_impressions_per_session": 6,
+    "app_open": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "min_interval_sec": 14400,
+      "max_per_session": 1
+    },
+    "banner_history": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "refresh_sec": 45
+    },
+    "banner_transaction": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "refresh_sec": 45
+    },
+    "interstitial_soft": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "min_interval_sec": 240,
+      "max_per_session": 2,
+      "show_after_actions": 2
+    }
+  }
+}
