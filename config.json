@@ -1,4 +1,4 @@
-﻿{
+{
   "config_version": 1,
   "remote_config_ttl_sec": 21600,
   "onesignal_app_id": "YOUR_ONESIGNAL_APP_ID",
@@ -28,6 +28,18 @@
       "unit_id": "ca-app-pub-3940256099942544/1033173712",
       "min_interval_sec": 240,
       "max_per_session": 2,
+      "show_after_actions": 2
+    },
+    "native_history": {
+      "enabled": false,
+      "unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "refresh_sec": 45
+    },
+    "rewarded_optional": {
+      "enabled": false,
+      "unit_id": "ca-app-pub-3940256099942544/5224354917",
+      "min_interval_sec": 240,
+      "max_per_session": 1,
       "show_after_actions": 2
     }
   }
