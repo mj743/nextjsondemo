@@ -1,7 +1,7 @@
 {
   "config_version": 1,
   "remote_config_ttl_sec": 21600,
-  "onesignal_app_id": "YOUR_ONESIGNAL_APP_ID",
+  "onesignal_app_id": "92fefd2e-d7c8-495d-933a-a83c75c33c72",
   "ads": {
     "enabled": true,
     "app_id": "ca-app-pub-3940256099942544~3347511713",
